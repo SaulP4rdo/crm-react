@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Saul Pardo",
+      "empresa": "P4rd0~Dev",
+      "email": "saul_p4rdo@icloud.com",
+      "telefono": "8411008823",
+      "notas": "Probando ando",
+      "id": 1
+    },
+    {
+      "nombre": "Saul Pardo",
+      "empresa": "P4rd0~Dev",
+      "email": "saul_p4rdo@icloud.com",
+      "telefono": "8411008823",
+      "notas": "asdasdasd",
+      "id": 2
+    }
+  ]
+}
