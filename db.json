@@ -15,6 +15,30 @@
       "telefono": "8411008823",
       "notas": "asdasdasd",
       "id": 2
+    },
+    {
+      "nombre": "Croquetas",
+      "empresa": "P4rd0~Dev",
+      "email": "saul_p4rdo@icloud.com",
+      "telefono": "8411008823",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Saul Pardo",
+      "empresa": "P4rd0~Dev",
+      "email": "saul_p4rdo@icloud.com",
+      "telefono": "8411008823",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Mabel Selenne",
+      "empresa": "Afro Creations",
+      "email": "mabelita@putita.com",
+      "telefono": "",
+      "notas": "",
+      "id": 5
     }
   ]
 }
